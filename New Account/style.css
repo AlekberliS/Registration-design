@@ -115,13 +115,14 @@
     margin-top: 6px;
   }
   .lb5 {
-    right: 204px ;
-        margin-top: 6px;
-  }
-  .lb6 {
-    right: auto;
+  right: 152px;
+  margin-top: 6px;
+}
 
-  }
+.label {
+  width: 90px;
+}
+
   
    #formvalidate .login-signup {
      margin-top: 28px;
